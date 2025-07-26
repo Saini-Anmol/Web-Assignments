@@ -1,6 +1,6 @@
 # 🌐 Web Development Course Assignments
 
-Welcome to the official repository for all my **Web Development course assignments**, submitted for evaluation to **Professor [Your Professor's Name]** as part of the curriculum at **[Your Institution Name]**.
+Welcome to the official repository for all my **Web Development course assignments**, submitted for evaluation to **Dr. Gargi Srivastava** as part of the curriculum at **Rajiv Gandhi Institute of Petroleum Technology, Jais, U.P.**.
 
 This repository documents my learning journey through **Frontend**, **Backend**, and **Full-Stack** web development using modern, industry-relevant technologies.
 
